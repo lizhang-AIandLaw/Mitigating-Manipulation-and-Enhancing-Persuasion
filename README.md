@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This script is designed to conduct experiments on legal argumentation using various Large Language Model (LLM) agent architectures. It focuses on trade secret misappropriation claims, where AI agents generate 3-ply arguments (Plaintiff's Argument, Defendant's Counterargument, Plaintiff's Rebuttal) based on provided case factors and precedent cases (TSCs). The script automates scenario generation, argument generation by different agent setups, and evaluation of these arguments based on several metrics.
+This script is designed to conduct experiments on legal argumentation using various Large Language Model (LLM) agent architectures. It focuses on trade secret misappropriation claims, where AI agents generate 3-ply arguments (Plaintiff's Argument, Defendant's Counterargument, Plaintiff's Rebuttal) based on provided case factors and precedent cases. The script automates scenario generation, argument generation by different agent setups, and evaluation of these arguments based on several metrics.
 
 ## 2. Features
 
